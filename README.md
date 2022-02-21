@@ -1,4 +1,4 @@
-# Strubels Public Server
+# Strubels Website Stuff
 
 # Social
 * https://kevingaab.de
