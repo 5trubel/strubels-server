@@ -20,4 +20,4 @@
 * https://gitlab.gamerparty.eu/kgaab/strubelgsm (Fork of [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) to fit in a Docker Container) 
 
 ## Fun pages
-* https://lightwoodlaminate.de 
+* https://www.lightwoodlaminate.de 
