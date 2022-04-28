@@ -24,3 +24,6 @@
 ## Fun pages
 * https://www.lightwoodlaminate.de 
 * https://carl.lightwoodlaminate.de
+
+
+_btw. by trying to connect to these servers via FTP/RSYNC/SSH you agree that your IP address (in case of failed login) will be published_
