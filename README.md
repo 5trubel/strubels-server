@@ -4,7 +4,6 @@
 * https://kevingaab.de
 
 ## Looking Glass 
-* http://au.kevingaab.de (Australia, IPv4 only) 
 * http://fr.kevingaab.de (France, IPv4 & IPv6) 
 
 ## Public APIs
