@@ -25,4 +25,4 @@
 * https://carl.lightwoodlaminate.de
 
 
-_btw. by trying to connect to these servers via FTP/RSYNC/SSH you agree that your IP address (in case of failed login) will be published_
+_btw. if you try to connect to these servers via FTP/RSYNC/SSH, you agree that your IP address may be published (especially in case of a failed login)._
