@@ -10,14 +10,12 @@
 * https://ip.kevingaab.de
 
 ## Productivity
-* https://gitlab.gamerparty.eu (Community Gitlab)
 * https://kernel.gamerparty.eu (Custom Kernel, made with [Linux-TKG](https://github.com/Frogging-Family/linux-tkg)) 
+* https://gitlab.gaab-networks.de (Personal GitLab) 
 * https://gaab-networks.de (Nextcloud)
 
 ## Public GIT repos 
 * https://github.com/5trubel/strubel_garrysmod (Repo with all my Garrys Mod Addons) 
-* https://gitlab.gamerparty.eu/kgaab/minecraft_modpackdownloader (Custom Minecraft Launcher) 
-* https://gitlab.gamerparty.eu/kgaab/strubelstuff (Non sensible Data Dump)
 * https://github.com/5trubel/strubel-lgsm (Fork of [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) to fit in a Docker Container) 
 
 ## Fun pages
